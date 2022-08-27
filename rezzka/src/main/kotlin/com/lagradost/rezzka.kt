@@ -9,7 +9,7 @@ import org.jsoup.nodes.Element
 class AkwamProvider : MainAPI() {
     override var lang = "ru"
     override var mainUrl = "https://rezka.ag"
-    override var name = "Akwam"
+    override var name = "rezka"
     override val usesWebView = false
     override val hasMainPage = true
     override val supportedTypes = setOf(TvType.TvSeries, TvType.Movie, TvType.Anime, TvType.Cartoon)
