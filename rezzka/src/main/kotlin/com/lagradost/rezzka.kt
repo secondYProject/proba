@@ -8,7 +8,7 @@ import org.jsoup.nodes.Element
 
 class AkwamProvider : MainAPI() {
     override var lang = "ru"
-    override var mainUrl = "http://hdrezkarfv.org"
+    override var mainUrl = "http://hdrezkasrsg7.net"
     override var name = "rezka"
     override val usesWebView = false
     override val hasMainPage = true
